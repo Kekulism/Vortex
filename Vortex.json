@@ -1,0 +1,19 @@
+{
+	"id": "keku_Vortex",
+	"name": "Vortex",
+	"author": ["Keku"],
+	"description": "A simple mod that removes the pixelation effect from Balatro's backgrounds!",
+	"prefix": "kvort",
+	"main_file": "main.lua",
+	"priority": 0,
+	"display_name": "Vortex",
+	"version": "1.0",
+	"dependencies": [
+		"Steamodded (>=1.0.0~BETA-0419a)"
+	],
+	"conflicts": [
+	], 
+	"provides": [
+	], 
+	"dump_loc": false
+}
