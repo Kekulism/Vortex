@@ -9,7 +9,7 @@
 	"display_name": "Vortex",
 	"version": "1.0",
 	"dependencies": [
-		"Steamodded (>=1.0.0~BETA-0419a)"
+		"Steamodded"
 	],
 	"conflicts": [
 	], 
